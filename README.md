@@ -76,5 +76,3 @@ Recebe um objeto `User` e retorna uma mensagem personalizada.
 - Java 17
 - Spring Boot 3.4.0
 - Maven
-
-```
